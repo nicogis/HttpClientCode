@@ -28,7 +28,7 @@ Here you can see sample POST from rest service arcgis
 
 Click button <b>Copy to Clipboard</b>
 
-Paste from Clipboard and test with LinPad
+Paste from Clipboard and test with LinqPad
 
 ![Httpclientcodelinqpad](images/httpclientcodelinqpad.png)
 
